@@ -28,5 +28,8 @@ Below is a list of different links that I'm mainly keep for personal use.
 * [OpenGL Samples Pack (Code)](http://sourceforge.net/projects/ogl-samples/)
 * [Another list of code examples (Code)](http://www.gamefromscratch.com/post/2012/07/03/A-series-of-OpenGL-samples.aspx)
 
+## Electronic Projects
+* [Small Z80 "computer" project](http://lateblt.tripod.com/z80proj1.htm)
+* [Another Z80 project](http://www.hanssummers.com/z80.html)
 
 
