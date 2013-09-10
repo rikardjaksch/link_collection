@@ -33,4 +33,7 @@ Below is a list of different links that I'm mainly keep for personal use.
 * [Another Z80 project](http://www.hanssummers.com/z80.html)
 * [Good collection of guides for beginners](http://electronicsclub.info/)
 
+## General Algorithms
+* [MaxRect C# Source](http://wiki.unity3d.com/index.php?title=MaxRectsBinPack)
+* [MaxRect C++ Source](https://github.com/juj/RectangleBinPack/tree/master/MaxRectsBinPackTest)
 
