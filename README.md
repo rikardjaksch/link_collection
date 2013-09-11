@@ -12,6 +12,9 @@ Below is a list of different links that I'm mainly keep for personal use.
 * [HG Init](http://hginit.com/)
 * [HG Basic Tutorial](http://mercurial.selenic.com/wiki/Tutorial)
 
+## SDL 2.0
+* [TwinkledbearDev Intro Tutorials](http://twinklebeardev.blogspot.se/p/sdl-20-tutorial-index.html)
+
 ## OpenGL
 * [Tutorials for modern OpenGL (3.3+)](http://www.opengl-tutorial.org/)
 * [Swiftless Tutorials](http://www.swiftless.com/)
