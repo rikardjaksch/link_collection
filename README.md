@@ -6,6 +6,7 @@ Below is a list of different links that I'm mainly keep for personal use.
 * [Git Immersion](http://gitimmersion.com/)
 * [Git From the Bottom Up (PDF)](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+* [Submodules](https://git.wiki.kernel.org/index.php/GitSubmoduleTutorial)
 
 ## Mercurial
 * [TortoiseHg (Client application](http://tortoisehg.bitbucket.org/)
