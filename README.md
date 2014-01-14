@@ -36,6 +36,7 @@ Below is a list of different links that I'm mainly keep for personal use.
 * [Small Z80 "computer" project](http://lateblt.tripod.com/z80proj1.htm)
 * [Another Z80 project](http://www.hanssummers.com/z80.html)
 * [Good collection of guides for beginners](http://electronicsclub.info/)
+* [Tutorials on micro controllers](http://newbiehack.com/default.aspx)
 
 ## General Algorithms
 * [MaxRect C# Source](http://wiki.unity3d.com/index.php?title=MaxRectsBinPack)
